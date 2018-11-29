@@ -1,1 +1,1 @@
-# tech-degree-projectc
+# Tech degree Project C
